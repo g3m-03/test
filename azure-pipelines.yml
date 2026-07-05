@@ -23,4 +23,5 @@ stages:
         deploy:
           steps:
           - checkout: self
-          - script: echo "using canary: $(mySecret)"
+          - script: |
+              echo "using canary: $(mySecret)"
