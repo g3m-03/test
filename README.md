@@ -1,2 +1,2 @@
 # test
-i'm the maintainer mate.
+i'm the maintainer mates.
